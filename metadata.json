@@ -1,0 +1,6 @@
+{
+  "name": "Draftlight",
+  "description": "Browser-based architectural concept studio for drawing scaled floor plans, arranging furniture, reviewing AI sketches, and exporting project files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
